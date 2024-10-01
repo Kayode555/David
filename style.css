@@ -1,0 +1,80 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.red{ 
+    background:linear-gradient(45deg, #833AB4, #FD1D1D,#F77737, #FCAF45, #405DE6);
+    padding: 250px; 
+    height:50px ; 
+    width: 12px; 
+    border-radius:15% ;
+    position: absolute;
+    top: 25px; 
+    left: 15px;
+} 
+.white{ 
+    background-color:white ; 
+    padding: 190px; 
+    height: 10px; 
+    width: 50px; 
+    border-radius:15% ;
+    position: absolute;
+    top: 45px;
+    left: 10px; 
+    margin-left: 60px;
+    margin-top: 40px; 
+    
+    
+}
+.blue{ 
+    background:linear-gradient(45deg, #833AB4, #FD1D1D,#F77737, #FCAF45, #405DE6);
+    padding:150px ; 
+    height:12px ; 
+    width: 50px; 
+    border-radius:15% ;
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 125px
+    
+    
+}
+.white2{ 
+    background-color: white; 
+    padding: 90px; 
+    height:10px ; 
+    width: 50px; 
+    border-radius: 100%;
+    position: absolute;
+    left: 170px; 
+    top: 170px; 
+    
+    
+    
+    
+} 
+.green{ 
+    background:linear-gradient(45deg, #833AB4, #FD1D1D,#F77737, #FCAF45, #405DE6);
+    padding: 70px; 
+    height: 10px; 
+    width: 50px;
+    position: absolute; 
+    border-radius: 100%;
+    bottom: 280px; 
+    left: 190px;  
+    bottom: 310px;
+
+}
+.white3{ 
+    background-color: white;
+    padding: 15px; 
+    height: 10px; 
+    width: 50px;
+    position:absolute ; 
+    border-radius: 200%;
+    bottom: 280px; 
+    left: 350px;  
+    bottom: 500px; 
+    top: 136px;
+}
+    
